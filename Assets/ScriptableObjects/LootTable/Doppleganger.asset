@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30d66c13cf4555e479b03f014f991823, type: 3}
+  m_Name: Doppleganger
+  m_EditorClassIdentifier: 
+  loots:
+  - thisLoot: {fileID: 0}
+    itemLoot: {fileID: 4670234381431384921, guid: a4fc2577ae8f90c44b2db7d6ee6c8bd5, type: 3}
+    lootChance: 10
+  - thisLoot: {fileID: 0}
+    itemLoot: {fileID: 7777565992930225285, guid: 4db1ca51c545fe140bf001c9dca95bbd, type: 3}
+    lootChance: 90

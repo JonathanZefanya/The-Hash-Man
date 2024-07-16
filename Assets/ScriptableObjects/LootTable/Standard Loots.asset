@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30d66c13cf4555e479b03f014f991823, type: 3}
+  m_Name: Standard Loots
+  m_EditorClassIdentifier: 
+  loots:
+  - thisLoot: {fileID: 9199504610676167911, guid: cfdb472f96df91948a9b9e707036af2d, type: 3}
+    lootChance: 50
+  - thisLoot: {fileID: 6699023829742181746, guid: 837dd679afb22ea42b4a358ce073038a, type: 3}
+    lootChance: 25
+  - thisLoot: {fileID: 2258765482996318001, guid: 569697b990490574481c392704991c80, type: 3}
+    lootChance: 50
